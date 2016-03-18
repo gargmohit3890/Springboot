@@ -1,0 +1,1 @@
+We cannot autowire a class whose scope is request in a class whose scope is singleton 
